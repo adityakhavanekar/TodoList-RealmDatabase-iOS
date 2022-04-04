@@ -2,6 +2,7 @@
 BEFORE OPENING AND RUNNING THE XCWORKSPACE:
 
     - Delete Podfile.lock
+    - Delete Podfile
     - Delete Pods Folder
     - Delete .xcworkspace
     
